@@ -1,6 +1,7 @@
 /node_modules
+/csv
 .DS_Store
-
+README.mdown
 convert.sh
 
 convert.command
